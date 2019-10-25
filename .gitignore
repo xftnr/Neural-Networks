@@ -1,0 +1,5 @@
+*.zip
+/supertuxkart
+*.dat
+/homework_07/train
+/homework_07/valid
